@@ -7,6 +7,9 @@
         <VerticalStackLayout
             Padding="30,0"
             Spacing="25">
+            <Label Text="Bruno"/>
+            <Button Text="Qualquer coisa"/>
+            <Image Source="dotnet_bot.png"/>
         </VerticalStackLayout>
     </ScrollView>
 
